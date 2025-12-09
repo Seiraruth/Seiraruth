@@ -1,13 +1,9 @@
 <div align="center">
 
-## 📊 GitHub Statistics
-
 <!--START_SECTION:github-metrics-->
 <!--END_SECTION:github-metrics-->
 
----
-
-## 🛠️ Technologies & Tools
+</div>
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -20,14 +16,8 @@
 
 ---
 
-## 📫 Connect with Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Seiraruth)
-
 </div>
 
 <div align="center">
 
-</div>
+[![Discord Presence](https://lanyard.cnrad.dev/api/466914522771357696)](https://discord.com/users/466914522771357696)
