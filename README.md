@@ -1,5 +1,7 @@
 <div align="center">
 
+![Profile Views](https://komarev.com/ghpvc/?username=Seiraruth&color=2bbc8a&style=flat-square&label=Profile+Views)
+
 <!--START_SECTION:github-metrics-->
 <!--END_SECTION:github-metrics-->
 
