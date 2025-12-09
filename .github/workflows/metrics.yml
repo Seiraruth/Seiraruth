@@ -22,7 +22,8 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Bangkok
           config_display: columns
-          config_padding: 6%, 10%
+          config_padding: 0, 8
+          config_output: svg
 
           # 3D Isometric commit calendar with contribution stats
           plugin_isocalendar: yes
@@ -31,7 +32,7 @@ jobs:
           # Lines of code pushed
           plugin_lines: yes
           plugin_lines_sections: base, repositories
-          plugin_lines_repositories_limit: 10
+          plugin_lines_repositories_limit: 8
           plugin_lines_history_limit: 1
 
           # Language statistics with detailed breakdown
@@ -47,9 +48,4 @@ jobs:
 
           # Recently starred repositories
           plugin_stars: yes
-          plugin_stars_limit: 4
-
-          # LeetCode statistics
-          plugin_leetcode: yes
-          plugin_leetcode_user: Seiraruth
-          plugin_leetcode_sections: solved, skills, recent
+          plugin_stars_limit: 3
