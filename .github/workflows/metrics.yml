@@ -32,10 +32,6 @@ jobs:
           plugin_lines_repositories_limit: 10
           plugin_lines_history_limit: 1
 
-          # Contributions in years 
-
-          plugin_calendar: yes
-          plugin_calendar_limit: 5
 
           # Recently starred repositories
           plugin_stars: yes
