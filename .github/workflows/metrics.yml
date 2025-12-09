@@ -49,7 +49,7 @@ jobs:
           plugin_stars: yes
           plugin_stars_limit: 4
 
-          # LeetCode statistics (if you have account)
+          # LeetCode statistics
           plugin_leetcode: yes
           plugin_leetcode_user: Seiraruth
           plugin_leetcode_sections: solved, skills, recent
